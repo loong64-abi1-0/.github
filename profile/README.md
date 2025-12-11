@@ -7,7 +7,9 @@ Binary applications.
 
 | Name                                                                           | Release                                                                                                                                                              | Description                                                                                               |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| [electron](https://github.com/loong64-abi1-0/electron)                         | <a href="[https://github.com/loong64/g](https://github.com/loong64-abi1-0/electron)n"><img alt="gn" src="https://img.shields.io/github/release/loong64-abi1-0/electron.svg"/></a>       | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS                                                            |
+| [electron](https://github.com/loong64-abi1-0/electron)                         | <a href="[https://github.com/loong64/g](https://github.com/loong64-abi1-0/electron)n"><img alt="gn" src="https://img.shields.io/github/release/loong64-abi1-0/electron.svg"/></a>       | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS            |
+| [Node.js](https://github.com/loong64-abi1-0/node-oldworld/releases)            | <a href="https://github.com/loong64-abi1-0/node-oldworld/releases"><img alt="Node.js" src="https://img.shields.io/github/release/loong64-abi1-0/node-oldworld.svg"/></a>                | Node.js JavaScript runtime ✨🐢🚀✨                                                  |
+
 
 ## Docker Images
 
