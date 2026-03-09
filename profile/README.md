@@ -9,6 +9,7 @@ Binary applications.
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [electron](https://github.com/loong64-abi1-0/electron)                         | <a href="[https://github.com/loong64/g](https://github.com/loong64-abi1-0/electron)n"><img alt="gn" src="https://img.shields.io/github/release/loong64-abi1-0/electron.svg"/></a>       | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS            |
 | [Node.js](https://github.com/loong64-abi1-0/node-oldworld/releases)            | <a href="https://github.com/loong64-abi1-0/node-oldworld/releases"><img alt="Node.js" src="https://img.shields.io/github/release/loong64-abi1-0/node-oldworld.svg"/></a>                | Node.js JavaScript runtime ✨🐢🚀✨                                                  |
+| [Golang](https://github.com/loong64-abi1-0/golang/releases)            | <a href="https://github.com/loong64-abi1-0/golang/releases"><img alt="Node.js" src="https://img.shields.io/github/release/loong64-abi1-0/golang.svg"/></a>                | An open-source programming language supported by Google                                                 |
 
 
 ## Docker Images
